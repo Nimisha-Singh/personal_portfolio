@@ -1,0 +1,36 @@
+.allfont{
+    padding: 6px 14px;
+    display: block;
+    color: #515154;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    text-align: left;
+    box-sizing: content-box;
+    padding: 0;
+    pointer-events: auto;
+    letter-spacing: normal;
+}
+.allhead{
+    padding: 6px14px;
+    display: block;
+    color: #515154;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: inherit;
+    font-weight: 2px;
+    line-height: inherit;
+    text-align: left;
+    box-sizing: content-box;
+    pointer-events: auto;
+    letter-spacing: normal;
+}
+.lowerpara{
+    font-size: small;
+    text-align: left;
+    margin-left: 110px;
+    display: block;
+    color: #86868b;
+    }

@@ -1,0 +1,28 @@
+/* carousel */
+.carousel-inner {
+  text-align: center;
+}
+.intro {
+  margin-top: 70px;
+  padding: 20px 100px;
+}
+
+.carousel-inner {
+  padding: 50px 100px;
+}
+.carousel-intro {
+  font-weight: 600;
+  font-size: 6rem;
+}
+/* carousel-card */
+.card {
+  padding: 30px 30px;
+}
+.card-title {
+  font-weight: 500;
+  font-size: 2.5rem;
+}
+.card-text {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
